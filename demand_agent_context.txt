@@ -1,0 +1,18 @@
+30-DAY DEMAND FORECAST (Total Units per Store):
+  Store_9: 2,480 units total  |  83 units/day avg
+  Store_8: 2,407 units total  |  80 units/day avg
+  Store_7: 2,236 units total  |  75 units/day avg
+  Store_4: 2,233 units total  |  74 units/day avg
+  Store_2: 2,199 units total  |  73 units/day avg
+  Store_1: 2,157 units total  |  72 units/day avg
+  Store_10: 1,871 units total  |  62 units/day avg
+  Store_6: 1,761 units total  |  59 units/day avg
+  Store_5: 1,711 units total  |  57 units/day avg
+  Store_3: 1,701 units total  |  57 units/day avg
+
+HIGH DEMAND ALERT: Store_9 → 2,480 units. Prioritize replenishment.
+LOW DEMAND ALERT:  Store_3 → 1,701 units. Consider redistribution.
+
+WEEKEND SURGE: Weekend demand is 157% higher. Increase stock before weekends.
+
+TOP 3 REPLENISHMENT PRIORITY: Store_9, Store_8, Store_7

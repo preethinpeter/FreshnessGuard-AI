@@ -1,0 +1,141 @@
+FRESHNESS GUARD — OPTIMIZATION REPORT: Store_1
+=======================================================
+
+DISCOUNT RECOMMENDATIONS:
+  [MODERATE] Bakery: Apply 15.0% discount (Price: INR 73.06 -> INR 62.1) | Saves 41,854 units from waste
+  [LOW] Beverages: Apply 0.0% discount (Price: INR 162.46 -> INR 162.46) | Saves 0 units from waste
+  [MODERATE] Dairy & Alternatives: Apply 10.0% discount (Price: INR 115.49 -> INR 103.94) | Saves 38,423 units from waste
+  [MODERATE] Fresh Foods: Apply 15.0% discount (Price: INR 134.75 -> INR 114.54) | Saves 618,132 units from waste
+  [LOW] Frozen Foods: Apply 0.0% discount (Price: INR 119.12 -> INR 119.12) | Saves 0 units from waste
+  [LOW] Pantry: Apply 0.0% discount (Price: INR 215.1 -> INR 215.1) | Saves 0 units from waste
+
+REPLENISHMENT RECOMMENDATIONS:
+
+FRESHNESS GUARD — OPTIMIZATION REPORT: Store_10
+=======================================================
+
+DISCOUNT RECOMMENDATIONS:
+  [MODERATE] Bakery: Apply 15.0% discount (Price: INR 76.32 -> INR 64.87) | Saves 46,743 units from waste
+  [LOW] Beverages: Apply 0.0% discount (Price: INR 167.16 -> INR 167.16) | Saves 0 units from waste
+  [MODERATE] Dairy & Alternatives: Apply 10.0% discount (Price: INR 114.69 -> INR 103.22) | Saves 40,390 units from waste
+  [MODERATE] Fresh Foods: Apply 15.0% discount (Price: INR 134.48 -> INR 114.31) | Saves 624,579 units from waste
+  [MODERATE] Frozen Foods: Apply 15.0% discount (Price: INR 106.95 -> INR 90.91) | Saves 735 units from waste
+  [LOW] Pantry: Apply 0.0% discount (Price: INR 217.76 -> INR 217.76) | Saves 0 units from waste
+
+REPLENISHMENT RECOMMENDATIONS:
+
+FRESHNESS GUARD — OPTIMIZATION REPORT: Store_2
+=======================================================
+
+DISCOUNT RECOMMENDATIONS:
+  [MODERATE] Bakery: Apply 15.0% discount (Price: INR 73.33 -> INR 62.33) | Saves 42,246 units from waste
+  [LOW] Beverages: Apply 0.0% discount (Price: INR 159.45 -> INR 159.45) | Saves 0 units from waste
+  [MODERATE] Dairy & Alternatives: Apply 10.0% discount (Price: INR 113.39 -> INR 102.05) | Saves 39,383 units from waste
+  [MODERATE] Fresh Foods: Apply 15.0% discount (Price: INR 134.37 -> INR 114.22) | Saves 651,067 units from waste
+  [LOW] Frozen Foods: Apply 0.0% discount (Price: INR 112.5 -> INR 112.5) | Saves 0 units from waste
+  [LOW] Pantry: Apply 0.0% discount (Price: INR 213.94 -> INR 213.94) | Saves 0 units from waste
+
+REPLENISHMENT RECOMMENDATIONS:
+
+FRESHNESS GUARD — OPTIMIZATION REPORT: Store_3
+=======================================================
+
+DISCOUNT RECOMMENDATIONS:
+  [MODERATE] Bakery: Apply 15.0% discount (Price: INR 74.73 -> INR 63.52) | Saves 41,661 units from waste
+  [LOW] Beverages: Apply 0.0% discount (Price: INR 161.66 -> INR 161.66) | Saves 0 units from waste
+  [MODERATE] Dairy & Alternatives: Apply 10.0% discount (Price: INR 115.21 -> INR 103.69) | Saves 37,501 units from waste
+  [MODERATE] Fresh Foods: Apply 15.0% discount (Price: INR 134.23 -> INR 114.09) | Saves 602,881 units from waste
+  [LOW] Frozen Foods: Apply 0.0% discount (Price: INR 110.85 -> INR 110.85) | Saves 0 units from waste
+  [MODERATE] Pantry: Apply 15.0% discount (Price: INR 215.64 -> INR 183.29) | Saves 2,970 units from waste
+
+REPLENISHMENT RECOMMENDATIONS:
+  [MEDIUM] Order 202 units of Bakery within 3 days (Cost: INR 9,332)
+
+FRESHNESS GUARD — OPTIMIZATION REPORT: Store_4
+=======================================================
+
+DISCOUNT RECOMMENDATIONS:
+  [MODERATE] Bakery: Apply 15.0% discount (Price: INR 76.08 -> INR 64.66) | Saves 46,450 units from waste
+  [LOW] Beverages: Apply 0.0% discount (Price: INR 169.64 -> INR 169.64) | Saves 0 units from waste
+  [MODERATE] Dairy & Alternatives: Apply 10.0% discount (Price: INR 114.66 -> INR 103.19) | Saves 40,387 units from waste
+  [MODERATE] Fresh Foods: Apply 15.0% discount (Price: INR 134.07 -> INR 113.96) | Saves 639,446 units from waste
+  [MODERATE] Frozen Foods: Apply 15.0% discount (Price: INR 112.18 -> INR 95.35) | Saves 732 units from waste
+  [LOW] Pantry: Apply 0.0% discount (Price: INR 213.75 -> INR 213.75) | Saves 0 units from waste
+
+REPLENISHMENT RECOMMENDATIONS:
+  [MEDIUM] Order 861 units of Bakery within 3 days (Cost: INR 40,475)
+  [MEDIUM] Order 12 units of Beverages within 3 days (Cost: INR 1,232)
+  [MEDIUM] Order 324 units of Dairy & Alternatives within 3 days (Cost: INR 23,092)
+  [MEDIUM] Order 138 units of Fresh Foods within 3 days (Cost: INR 11,564)
+  [MEDIUM] Order 223 units of Frozen Foods within 3 days (Cost: INR 15,660)
+  [MEDIUM] Order 35 units of Pantry within 3 days (Cost: INR 4,684)
+
+FRESHNESS GUARD — OPTIMIZATION REPORT: Store_5
+=======================================================
+
+DISCOUNT RECOMMENDATIONS:
+  [MODERATE] Bakery: Apply 15.0% discount (Price: INR 76.65 -> INR 65.15) | Saves 43,765 units from waste
+  [LOW] Beverages: Apply 0.0% discount (Price: INR 161.62 -> INR 161.62) | Saves 0 units from waste
+  [MODERATE] Dairy & Alternatives: Apply 10.0% discount (Price: INR 115.28 -> INR 103.75) | Saves 37,735 units from waste
+  [MODERATE] Fresh Foods: Apply 15.0% discount (Price: INR 134.18 -> INR 114.05) | Saves 613,210 units from waste
+  [LOW] Frozen Foods: Apply 0.0% discount (Price: INR 113.67 -> INR 113.67) | Saves 0 units from waste
+  [LOW] Pantry: Apply 0.0% discount (Price: INR 212.0 -> INR 212.0) | Saves 0 units from waste
+
+REPLENISHMENT RECOMMENDATIONS:
+  [MEDIUM] Order 542 units of Bakery within 3 days (Cost: INR 25,889)
+  [MEDIUM] Order 104 units of Dairy & Alternatives within 3 days (Cost: INR 7,490)
+
+FRESHNESS GUARD — OPTIMIZATION REPORT: Store_6
+=======================================================
+
+DISCOUNT RECOMMENDATIONS:
+  [MODERATE] Bakery: Apply 15.0% discount (Price: INR 75.3 -> INR 64.01) | Saves 41,555 units from waste
+  [LOW] Beverages: Apply 0.0% discount (Price: INR 164.21 -> INR 164.21) | Saves 0 units from waste
+  [MODERATE] Dairy & Alternatives: Apply 10.0% discount (Price: INR 114.87 -> INR 103.38) | Saves 42,412 units from waste
+  [MODERATE] Fresh Foods: Apply 15.0% discount (Price: INR 134.63 -> INR 114.43) | Saves 620,030 units from waste
+  [LOW] Frozen Foods: Apply 0.0% discount (Price: INR 110.6 -> INR 110.6) | Saves 0 units from waste
+  [LOW] Pantry: Apply 0.0% discount (Price: INR 216.42 -> INR 216.42) | Saves 0 units from waste
+
+REPLENISHMENT RECOMMENDATIONS:
+
+FRESHNESS GUARD — OPTIMIZATION REPORT: Store_7
+=======================================================
+
+DISCOUNT RECOMMENDATIONS:
+  [MODERATE] Bakery: Apply 15.0% discount (Price: INR 74.7 -> INR 63.49) | Saves 44,872 units from waste
+  [LOW] Beverages: Apply 0.0% discount (Price: INR 162.93 -> INR 162.93) | Saves 0 units from waste
+  [MODERATE] Dairy & Alternatives: Apply 10.0% discount (Price: INR 114.23 -> INR 102.8) | Saves 38,770 units from waste
+  [MODERATE] Fresh Foods: Apply 15.0% discount (Price: INR 134.46 -> INR 114.29) | Saves 652,715 units from waste
+  [MODERATE] Frozen Foods: Apply 15.0% discount (Price: INR 109.6 -> INR 93.16) | Saves 575 units from waste
+  [LOW] Pantry: Apply 0.0% discount (Price: INR 215.5 -> INR 215.5) | Saves 0 units from waste
+
+REPLENISHMENT RECOMMENDATIONS:
+
+FRESHNESS GUARD — OPTIMIZATION REPORT: Store_8
+=======================================================
+
+DISCOUNT RECOMMENDATIONS:
+  [MODERATE] Bakery: Apply 15.0% discount (Price: INR 75.88 -> INR 64.5) | Saves 43,769 units from waste
+  [LOW] Beverages: Apply 0.0% discount (Price: INR 167.43 -> INR 167.43) | Saves 0 units from waste
+  [MODERATE] Dairy & Alternatives: Apply 10.0% discount (Price: INR 115.23 -> INR 103.7) | Saves 40,944 units from waste
+  [MODERATE] Fresh Foods: Apply 15.0% discount (Price: INR 134.33 -> INR 114.18) | Saves 618,380 units from waste
+  [LOW] Frozen Foods: Apply 0.0% discount (Price: INR 108.28 -> INR 108.28) | Saves 0 units from waste
+  [LOW] Pantry: Apply 0.0% discount (Price: INR 212.67 -> INR 212.67) | Saves 0 units from waste
+
+REPLENISHMENT RECOMMENDATIONS:
+  [MEDIUM] Order 127 units of Bakery within 3 days (Cost: INR 5,996)
+
+FRESHNESS GUARD — OPTIMIZATION REPORT: Store_9
+=======================================================
+
+DISCOUNT RECOMMENDATIONS:
+  [MODERATE] Bakery: Apply 15.0% discount (Price: INR 75.07 -> INR 63.81) | Saves 39,891 units from waste
+  [LOW] Beverages: Apply 0.0% discount (Price: INR 158.13 -> INR 158.13) | Saves 0 units from waste
+  [MODERATE] Dairy & Alternatives: Apply 10.0% discount (Price: INR 114.27 -> INR 102.84) | Saves 37,382 units from waste
+  [MODERATE] Fresh Foods: Apply 15.0% discount (Price: INR 134.0 -> INR 113.9) | Saves 637,782 units from waste
+  [LOW] Frozen Foods: Apply 0.0% discount (Price: INR 115.94 -> INR 115.94) | Saves 0 units from waste
+  [LOW] Pantry: Apply 0.0% discount (Price: INR 218.5 -> INR 218.5) | Saves 0 units from waste
+
+REPLENISHMENT RECOMMENDATIONS:
+  [MEDIUM] Order 293 units of Bakery within 3 days (Cost: INR 13,759)
+

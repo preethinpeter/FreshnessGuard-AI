@@ -1,0 +1,15 @@
+# Ignore environment files
+.env
+
+# Ignore cache files
+.ipynb_checkpoints/
+
+# Ignore executables
+*.exe
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore large data files (optional)
+*.csv
