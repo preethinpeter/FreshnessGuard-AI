@@ -72,14 +72,19 @@ Styling	Custom CSS (Dark Theme)
 
 
 ⚙️ Installation & Setup
-# Clone the repository
+
+ Clone the repository
+ 
 git clone <your-repo-link>
 
-# Navigate into the project folder
+ Navigate into the project folder
+ 
 cd FreshnessGuard-AI
 
-# Install dependencies
+ Install dependencies
+ 
 pip install -r requirements.txt
 
-# Run the application
+ Run the application
+ 
 streamlit run app.py
