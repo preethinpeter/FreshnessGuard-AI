@@ -2,7 +2,9 @@
 🥬 FreshnessGuard AI — Intelligent Retail Optimization Dashboard
 
 Author: Preethin Peter
+
 Organization: Wise Analytics
+
 Project Duration: February 9, 2026 – April 9, 2026
 
 🚀 Project Overview
