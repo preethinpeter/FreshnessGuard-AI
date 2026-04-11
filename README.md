@@ -1,7 +1,7 @@
 
 🥬 FreshnessGuard AI — Intelligent Retail Optimization Dashboard
 
-Author: Preethin Peter
+Authors: Preethin Peter & Sanket Dhawane
 
 Organization: Wise Analytics
 
